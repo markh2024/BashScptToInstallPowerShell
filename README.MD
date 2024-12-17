@@ -256,7 +256,12 @@ fi
 
 ####  Cheers and have an excellent Xmas and learn as much as you can as that world out there is changing fast , faster than you could  ever picture Its not going to wait for you  !! 
 
-
+###  Other links regards myself are as follows 
+#### https://www.instagram.com/markukh2021/
+#### https://www.facebook.com/mark.harrington.14289/
+#### https://github.com/markh2024?tab=repositories
+#### https://pastebin.com/u/Mark2020H
+#### https://codeshare.io/9bxp67
 
 
 
