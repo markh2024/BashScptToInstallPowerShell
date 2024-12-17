@@ -1,8 +1,17 @@
 # Aim and purpose of thhis Script 
 
-## To to automatically install power shell on Debian Linux with minimum fuss and stress using bash scripting 
+### To automatically install power shell on Debian Linux with minimum fuss and stress using bash scripting 
+### Written by MD Harrington  For Debian (Bookworm) 64 bit achitecture 
+### Tested on Debian 12 and  works like a charm 
+### To Run do af follows 
+### 1) Change to directory you dowloaded this to  type the following
+### 2) chmod +x <name of file.sh> 
+### 3) ./<name of file.sh> 
+### All the rest is automatically done for you Enjoy 
 
-## Script Explanation
+
+
+## Script Explanation and how this code works 
 
 ### Shebang line
 ```
