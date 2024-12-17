@@ -6,7 +6,7 @@
 #### To Run do af follows 
 #### 1) Change to directory you dowloaded this to  type the following
 #### 2) chmod +x <name of file.sh> 
-#### 3)  "./<name of file.sh> " 
+#### 3)  "./ " + name of file.sh 
 #### All the rest is automatically done for you Enjoy 
 
 
